@@ -10,4 +10,5 @@ A curated list of awesome Deep Learning resource
 
 # Books
 * [http://d2l.ai](http://d2l.ai) Now with PyTorch support
+* [https://mml-book.github.io](Mathematics for Machine Learning)
 
